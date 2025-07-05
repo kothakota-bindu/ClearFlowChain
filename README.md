@@ -1,7 +1,9 @@
 # ClearFlowChain - Decentralized AI-Powered Supply Chain DApp
  A production-grade, mobile-friendly, decentralized supply chain management platform leveraging Blockchain, AI, and Progressive Web App technologies.
+ 
  **Project Overview:**
 ClearFlowChain is a decentralized application (DApp) that enables transparent, tamper-proof product tracking across the supply chain.
+
 *Features:*
 - Automated Product ID creation
 - Role-based access (Manufacturer, Supplier, Vendor, Distributor, Consumer)
@@ -12,7 +14,8 @@ ClearFlowChain is a decentralized application (DApp) that enables transparent, t
 - Fully responsive Progressive Web App (PWA) for mobile access
 - Secure, auditable, event-driven architecture
 - Future-ready: Extensible for ZK proofs, multi-chain support, dispute resolution
- **Tech Stack**
+
+**Tech Stack**
 - Smart Contract: Solidity 0.8.21 (ClearFlowChain.sol)
 - Blockchain: Ethereum Sepolia Testnet
 - Frontend: React + Vite + TypeScript
@@ -21,6 +24,7 @@ ClearFlowChain is a decentralized application (DApp) that enables transparent, t
 - AI: OpenAI API / NLP (Optional)
 - Storage: IPFS (Optional)
 - PWA: Manifest, Service Worker
+
 **Project Structure:**
 ```
 supplychain-dapp/
