@@ -1,3 +1,4 @@
+# Status: This project is currently in progress and undergoing active development. Code modifications are expected.
 # ClearFlowChain - Decentralized AI-Powered Supply Chain DApp
  A production-grade, mobile-friendly, decentralized supply chain management platform leveraging Blockchain, AI, and Progressive Web App technologies.
  
